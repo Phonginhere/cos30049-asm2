@@ -1,0 +1,6 @@
+Country,Year,Pollutant,Exposure Mean,Units,Burden Mean,Measure,Metric,Cause Name
+Afghanistan,2011,ozone,52.1,ppb,51.7,daly,rate,All causes
+Albania,2011,ozone,45.3,ppb,25.5,daly,rate,All causes
+Algeria,2011,ozone,52.5,ppb,25.3,daly,rate,All causes
+American Samoa,2011,ozone,33.3,ppb,15.3,daly,rate,All causes
+Andorra,2011,ozone,50.8,ppb,69.5,daly,rate,All causes
